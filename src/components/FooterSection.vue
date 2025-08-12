@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-white dark:bg-gray-800 py-20 transition-colors duration-300">
+  <footer id="contact" class="bg-white dark:bg-gray-800 py-20 transition-colors duration-300">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <div class="mb-8">

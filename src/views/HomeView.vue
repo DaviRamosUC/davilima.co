@@ -51,7 +51,7 @@ export default {
 
     const toggleDarkMode = () => {
       darkMode.value = !darkMode.value
-      localStorage.setItem('darkMode', darkMode.value)
+      localStorage.setItem('darkMode', JSON.stringify(darkMode.value))
     }
 
     onMounted(() => {

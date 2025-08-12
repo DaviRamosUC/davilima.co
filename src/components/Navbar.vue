@@ -3,13 +3,13 @@
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex justify-between items-center h-16">
         <div class="flex items-center">
-          <span class="text-xl font-bold text-gray-900 dark:text-white">&lt;RD /&gt;</span>
+          <span class="text-xl font-bold text-gray-900 dark:text-white">&lt;DL /&gt;</span>
         </div>
 
         <div class="hidden md:flex space-x-8">
-          <a href="#about" class="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">About</a>
-          <a href="#work" class="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Work</a>
-          <a href="#contact" class="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Contact</a>
+          <a href="#about" class="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Sobre</a>
+          <a href="#work" class="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Projetos</a>
+          <a href="#contact" class="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Contato</a>
         </div>
 
         <div class="flex items-center space-x-4">
@@ -25,7 +25,7 @@
             </svg>
           </button>
           <button class="bg-black dark:bg-white text-white dark:text-black px-4 py-2 rounded-lg hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors">
-            Contact me
+            Curriculum Vitae
           </button>
         </div>
       </div>
