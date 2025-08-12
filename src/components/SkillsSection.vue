@@ -2,9 +2,9 @@
   <section class="py-20">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
-        <p class="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-4">Skills</p>
+        <p class="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-4">Hábilidades</p>
         <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-          The skills, tools and technologies I am really good at:
+          As habilidades, ferramentas e tecnologias em que sou realmente bom:
         </h2>
       </div>
 

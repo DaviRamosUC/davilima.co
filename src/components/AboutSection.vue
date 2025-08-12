@@ -21,7 +21,7 @@
 
           <div class="space-y-4 text-gray-600 dark:text-gray-300 leading-relaxed">
             <p>
-              I'm a passionate, self-proclaimed designer who specializes in full stack development (React.js & Node.js). I am very enthusiastic about bringing the technical and visual aspects of digital products to life. User experience, pixel perfect design, and writing clear, readable, highly performant code matters to me.
+              Sou um desenvolvedor full stack especializado em desenvolvimento full stack (Vue.js & PHP). Estou muito animado em trazer os aspectos técnicos e visuais dos produtos digitais. Experiência do usuário, design perfeito em pixel e escrever código claro, legível e de alto desempenho é importante para mim.
             </p>
 
             <p>

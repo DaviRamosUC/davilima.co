@@ -2,9 +2,9 @@
   <section class="bg-white dark:bg-gray-800 py-20 transition-colors duration-300">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
-        <p class="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-4">Experience</p>
+        <p class="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-4">Experiência</p>
         <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-          Here is a quick summary of my most recent experiences:
+          Aqui está um resumo rápido das minhas experiências mais recentes:
         </h2>
       </div>
 
