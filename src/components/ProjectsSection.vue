@@ -2,9 +2,9 @@
   <section id="work" class="py-20">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
-        <p class="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-4">Work</p>
+        <p class="text-sm font-medium text-blue-600 dark:text-blue-400 uppercase tracking-wide mb-4">Projetos</p>
         <h2 class="text-2xl font-bold text-gray-900 dark:text-white">
-          Some of the noteworthy projects I have built:
+          Alguns dos projetos notáveis que eu construí :
         </h2>
       </div>
 
@@ -32,30 +32,12 @@ export default {
     const projects = [
       {
         id: 1,
-        title: 'Adays',
-        description: 'CRAFTING WEBSITES THAT ELEVATE YOUR BRAND We transform your brand\'s vision into a reality, creating remarkable websites that engage users and drive sustainable business growth.',
+        title: 'Portfólio',
+        description: 'Um portfólio simples feito com Vue.js e TailwindCSS.',
         image: '/api/placeholder/600/400',
-        tags: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'PostgreSQL'],
-        liveUrl: '#',
-        codeUrl: '#'
-      },
-      {
-        id: 2,
-        title: 'Adays',
-        description: 'CRAFTING WEBSITES THAT ELEVATE YOUR BRAND We transform your brand\'s vision into a reality, creating remarkable websites that engage users and drive sustainable business growth.',
-        image: '/api/placeholder/600/400',
-        tags: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'PostgreSQL'],
-        liveUrl: '#',
-        codeUrl: '#'
-      },
-      {
-        id: 3,
-        title: 'Adays',
-        description: 'CRAFTING WEBSITES THAT ELEVATE YOUR BRAND We transform your brand\'s vision into a reality, creating remarkable websites that engage users and drive sustainable business growth.',
-        image: '/api/placeholder/600/400',
-        tags: ['React', 'Next.js', 'TypeScript', 'TailwindCSS', 'PostgreSQL'],
-        liveUrl: '#',
-        codeUrl: '#'
+        tags: ['Vue.js', 'TailwindCSS'],
+        liveUrl: 'https://davilima-six.vercel.app/',
+        codeUrl: 'https://github.com/DaviRamosUC/davilima.co'
       }
     ]
 
