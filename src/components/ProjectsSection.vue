@@ -22,6 +22,7 @@
 
 <script lang="ts">
 import ProjectCard from '@/components/ProjectCard.vue'
+import portfolioURL from '@/assets/portifolio.png'
 
 export default {
   name: 'ProjectsSection',
@@ -34,7 +35,7 @@ export default {
         id: 1,
         title: 'Portfólio',
         description: 'Um portfólio simples feito com Vue.js e TailwindCSS.',
-        image: '/api/placeholder/600/400',
+        image: portfolioURL,
         tags: ['Vue.js', 'TailwindCSS'],
         liveUrl: 'https://davilima-six.vercel.app/',
         codeUrl: 'https://github.com/DaviRamosUC/davilima.co'

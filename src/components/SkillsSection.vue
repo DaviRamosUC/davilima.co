@@ -21,6 +21,16 @@
 
 <script lang="ts">
 import SkillCard from '@/components/SkillCard.vue'
+import jsIcon from '@/assets/javascript.png'
+import reactIcon from '@/assets/react.png'
+import nodeIcon from '@/assets/nodejs.png'
+import expressIcon from '@/assets/express.png'
+import postIcon from '@/assets/postgrees.png'
+import mongoIcon from '@/assets/mongodb.png'
+import tailIcon from '@/assets/tailwindcss.png'
+import gitIcon from '@/assets/git.png'
+import phpIcon from '@/assets/php.png'
+import laravelIcon from '@/assets/laravel.png'
 
 export default {
   name: 'SkillsSection',
@@ -29,16 +39,16 @@ export default {
   },
   setup() {
     const skills = [
-      { name: 'JavaScript', icon: '🟨', color: 'yellow' },
-      { name: 'Figma', icon: '🎨', color: 'purple' },
-      { name: 'React', icon: '⚛️', color: 'blue' },
-      { name: 'Node.js', icon: '💚', color: 'green' },
-      { name: 'Express.js', icon: '⚡', color: 'gray' },
-      { name: 'PostgreSQL', icon: '🐘', color: 'blue' },
-      { name: 'MongoDB', icon: '🍃', color: 'green' },
-      { name: 'Socket.io', icon: '🔌', color: 'black' },
-      { name: 'Tailwind', icon: '🎨', color: 'cyan' },
-      { name: 'Git', icon: '📝', color: 'orange' }
+      { name: 'PHP', icon: phpIcon, color: 'yellow' },
+      { name: 'Laravel', icon: laravelIcon, color: 'yellow' },
+      { name: 'JavaScript', icon: jsIcon, color: 'yellow' },
+      { name: 'React', icon: reactIcon, color: 'blue' },
+      { name: 'Node.js', icon: nodeIcon, color: 'green' },
+      { name: 'Express.js', icon: expressIcon, color: 'gray' },
+      { name: 'PostgreSQL', icon: postIcon, color: 'blue' },
+      { name: 'MongoDB', icon: mongoIcon, color: 'green' },
+      { name: 'Tailwind', icon: tailIcon, color: 'cyan' },
+      { name: 'Git', icon: gitIcon, color: 'orange' }
     ]
 
     return {
